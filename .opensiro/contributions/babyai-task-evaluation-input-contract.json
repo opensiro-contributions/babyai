@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "babyai-task-evaluation-input-contract",
+  "original_repository": "mila-iqia/babyai",
+  "legacy_sources": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/data/assessment-candidate-batches/2026-10-23-09.json",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/babyai/CONTRIBUTION_HANDOFF.md"
+  ],
+  "title": "Validate positive native training and validation CLI counts",
+  "work_state": "DELIVERED",
+  "next_action": "Historical metadata only; owner PAUSE prohibits new engineering and publication",
+  "source_revision": "65fb0cb6f816532a65014bf034a758244e2d5ae7",
+  "native_evidence": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/babyai/CONTRIBUTION_HANDOFF.md",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/babyai/native-training-argument-guard.patch"
+  ],
+  "work_branches": [],
+  "external_prs": [
+    "https://github.com/mila-iqia/babyai/pull/128"
+  ],
+  "last_event_id": null
+}
